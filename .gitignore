@@ -1,0 +1,18 @@
+# Environment file
+.env
+
+# Composer dependencies
+vendor/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary or cache files
+cache/
+tmp/

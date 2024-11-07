@@ -1,0 +1,24 @@
+# Composer directory
+/vendor/
+/composer.lock
+
+# PHPMailer
+/phpmailer/
+
+# Environment files
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/project-specific files
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log and cache files
+*.log
+/cache/
+/tmp/
+
